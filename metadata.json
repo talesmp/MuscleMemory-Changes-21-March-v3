@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Calisthenics AI Voice Coach (Changes 21 March v3)",
+  "description": "A real-time AI-powered calisthenics coach using MediaPipe Pose to track form and provide vocal feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
